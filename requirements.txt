@@ -1,0 +1,13 @@
+pandas==2.0.1
+scikit-learn==1.2.2
+statsmodels==0.14.0
+pytest==7.4.0
+jupyterlab==4.2.5
+python-dotenv==1.0.1
+langchain-community==0.3.2
+langchain-huggingface==0.1.0
+langchain-groq==0.2.0
+langchainhub==0.1.21
+pypdf==4.2.0
+faiss-cpu==1.9.0
+streamlit
